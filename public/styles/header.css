@@ -1,0 +1,54 @@
+header {
+  width: 100%;
+  height: var(--default-layout-header-height);
+  background: var(--gradient-current -1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  transition: background 0.5s ease;
+}
+
+.inner {
+  padding: 0 28px 0 24px;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  display: flex;
+  flex: 1 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.link-home {
+  display: flex;
+  align-items: center;
+  cursor: default;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0 15px;
+  transition: all 0.3s ease;
+  color: var(--header-text-color);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  letter-spacing: 1px;
+}
+
+.title:hover {
+  transform: scale(1.05);
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* Bỏ lớp overlay vì Không cần thiết với nền mới */
+header::before {
+  content: none;
+}

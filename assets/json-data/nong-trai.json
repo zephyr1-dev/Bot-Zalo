@@ -1,0 +1,1372 @@
+{
+  "nongtrai": {
+    "1": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    },
+    "manhdz": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1743957025299,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1743957025299,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1743957025299,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1743957025299,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    },
+    "t_m7czdzi96z": {
+      "bag": {
+        "W1": 1582,
+        "SF1": 792,
+        "X1": 781,
+        "S1": 30,
+        "MF1": 792,
+        "F1": 822,
+        "S2": 102,
+        "X1_TP": 169,
+        "S3": 99
+      },
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744713927459,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744717330001,
+          "status": "Khô cằn",
+          "fertilized": []
+        }
+      ]
+    },
+    "skibidi": {
+      "bag": {
+        "SF1": 1002,
+        "MF1": 1002,
+        "S1": 982,
+        "W1": 944,
+        "F1": 920,
+        "X1": 918,
+        "X1_TP": 42
+      },
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719925583,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719340339,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719344732,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719347792,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744719350952,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1744720065911,
+          "status": "Khô cằn",
+          "fertilized": null
+        }
+      ]
+    },
+    "khoamcw": {
+      "bag": {
+        "F1": 109985,
+        "W1": 999949,
+        "S1": 99952,
+        "MF1": 100000,
+        "SF1": 99982,
+        "H3_TP": 3,
+        "S3": 10000,
+        "X1": 99982
+      },
+      "plots": [
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419199,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "XOAI",
+          "plantedAt": 1744686549990.2,
+          "waterLevel": 70,
+          "lastWateredAt": 1744681419200,
+          "status": "Đất tốt",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        }
+      ]
+    },
+    "taikhoan": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1744624970492,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1744624970492,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1744624970492,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1744624970492,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    },
+    "ere": {
+      "bag": {
+        "SF1": 100,
+        "X1": 10101
+      },
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1746800270763,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1746800270763,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1746800270763,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1746800270763,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    },
+    "Toilet": {
+      "bag": {
+        "H3": 94,
+        "S1": 6,
+        "W1": 6,
+        "H3_TP": 2
+      },
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1746885522015,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1746885522015,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": "HOATULIP",
+          "plantedAt": 1746881802262.4,
+          "waterLevel": 0,
+          "lastWateredAt": 1746885522015,
+          "status": "Khô cằn",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "HOATULIP",
+          "plantedAt": 1746881802262.4,
+          "waterLevel": 0,
+          "lastWateredAt": 1746885522015,
+          "status": "Khô cằn",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "HOATULIP",
+          "plantedAt": 1746881809994.4,
+          "waterLevel": 0,
+          "lastWateredAt": 1746885677891,
+          "status": "Khô cằn",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        },
+        {
+          "crop": "HOATULIP",
+          "plantedAt": 1746881809994.8,
+          "waterLevel": 0,
+          "lastWateredAt": 1746885689489,
+          "status": "Khô cằn",
+          "fertilized": [
+            "SUPER_FERTILIZER"
+          ]
+        }
+      ]
+    },
+    "ducanhrubik563": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747838785495,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747838785495,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747838785495,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747838785495,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    },
+    "oki": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1747929905719,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1747929905719,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1747929905719,
+          "status": "Khô cằn",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 0,
+          "lastWateredAt": 1747929905719,
+          "status": "Khô cằn",
+          "fertilized": []
+        }
+      ]
+    },
+    "TrungND2611": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747962650903,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747962650903,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747962650903,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1747962650903,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    },
+    "anh1zzll": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1748919716668,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1748919716668,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1748919716668,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1748919716668,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    },
+    "hoang": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1751926777421,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1751926777421,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1751926777421,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1751926777421,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    }
+  }
+}

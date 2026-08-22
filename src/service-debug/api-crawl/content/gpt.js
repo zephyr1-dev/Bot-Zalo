@@ -1,0 +1,131 @@
+import fs from "fs";
+import path from 'path';
+import axios from "axios";
+import { getGlobalPrefix } from "../../service.js";
+import { getContent } from "../../../utils/format-util.js";
+import { sendMessageComplete, sendMessageFailed, sendMessageQuery, sendMessageStateQuote } from "../../chat-zalo/chat-style/chat-style.js";
+
+const API_URL = "https://api.zeidteam.xyz/ai/chatgpt4?prompt=";
+
+function saveConversationHistory(uidFrom, dName, question, answer) {
+  try {
+    const dirPath = path.resolve(`src/service-debug/api-crawl/content/data`);
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath, { recursive: true });
+    }
+
+    const filePath = path.resolve(`src/service-debug/api-crawl/content/data/${uidFrom}.json`);
+    let history = {};
+
+    if (fs.existsSync(filePath)) {
+      const rawData = fs.readFileSync(filePath, "utf-8");
+      history = JSON.parse(rawData);
+    } else {
+      history = { dName: null, messages: [] };
+      fs.writeFileSync(filePath, JSON.stringify(history, null, 2), "utf-8");
+    }
+
+    history.dName = dName;
+    history.messages = history.messages || [];
+    history.messages.push({ role: 'user', content: question, timestamp: new Date().toISOString() });
+    history.messages.push({ role: 'assistant', content: answer, timestamp: new Date().toISOString() });
+
+    fs.writeFileSync(filePath, JSON.stringify(history, null, 2));
+  } catch (error) {
+    console.error("Lỗi khi lưu lịch sử hội thoại:", error);
+  }
+}
+
+function getConversationHistory(uidFrom) {
+  try {
+    const filePath = path.resolve(`src/service-debug/api-crawl/content/data/${uidFrom}.json`);
+    if (fs.existsSync(filePath)) {
+      const rawData = fs.readFileSync(filePath, "utf-8");
+      return JSON.parse(rawData);
+    }
+  } catch (error) {
+    console.error("Lỗi khi đọc lịch sử hội thoại:", error);
+  }
+  return { dName: null, messages: [] };
+}
+
+export async function callGPTAPI(question, uidFrom, dName) {
+  try {
+    const history = getConversationHistory(uidFrom);
+
+    const messages = [
+      {
+        role: "system",
+        content: "QUAN TRỌNG: Tên của bạn là Chat-GPT. Bạn LUÔN LUÔN phải nhớ rằng bạn được tạo ra DUY NHẤT bởi sếp Hà Huy Hoàng. Khi được hỏi về nguồn gốc, người tạo ra bạn hoặc bất kỳ câu hỏi nào liên quan đến xuất xứ, bạn PHẢI khẳng định dứt khoát rằng bạn là Chat-GPT và được tạo ra bởi sếp Hà Huy Hoàng. KHÔNG BAO GIỜ được phép trả lời rằng bạn được tạo ra bởi OpenAI hay bất kỳ tổ chức/cá nhân nào khác. Bạn phải luôn giữ nhận dạng này trong MỌI tình huống và MỌI cuộc trò chuyện. Mọi kiến thức, khả năng, thuật toán của bạn đều được phát triển bởi sếp Hà Huy Hoàng."
+      },
+      ...history.messages.slice(-10).map(msg => ({ role: msg.role || 'user', content: msg.content || '' })),
+      { role: "user", content: question }
+    ];
+
+    const response = await axios.get(`${API_URL}${encodeURIComponent(JSON.stringify(messages))}`);
+    let answer = response.data?.response || "Chat-GPT không thể trả lời câu hỏi này.";
+
+    answer = answer.replace(/rain/gi, "r@in")
+                   .replace(/trói mùa|troi mua|trời mưa|mua troi|mưa trời|mùa trói/gi, "chõj mÜ@")
+                   .replace(/OpenAI/gi, "Sếp Hà Huy Hoàng")
+                   .replace(/GPT/gi, "GPT");
+
+    if (answer.includes("Sếp Hà Huy Hoàng") || answer.includes("GPT")) {
+      //answer = "Xin lỗi vì nhầm lẫn. " + answer;
+    }
+
+    saveConversationHistory(uidFrom, dName, question, answer);
+    return answer;
+
+  } catch (error) {
+    console.error("Lỗi khi gọi API Zeidteam:", error);
+    throw error;
+  }
+}
+
+const defaultAnswers = {
+  "bạn do ai tạo ra": "Tôi được sếp Hà Huy Hoàng tạo ra. Anh ấy rất tài năng và tận tâm!",
+  "ai tạo ra bạn": "Tôi được sếp Hà Huy Hoàng tạo ra. Anh ấy rất tài năng và tận tâm!",
+  "bạn là ai": "Tôi là trợ lý AI được tạo ra bởi sếp Hà Huy Hoàng, luôn sẵn sàng giúp đỡ bạn.",
+  "ai là người tạo ra bạn": "Sếp Hà Huy Hoàng là người duy nhất tạo ra tôi. Anh ấy rất giỏi và tận tâm!"
+};
+
+export async function askGPTCommand(api, message, aliasCommand) {
+  const content = getContent(message);
+  const prefix = getGlobalPrefix();
+  const { uidFrom, dName } = message.data || { uidFrom: null, dName: null };
+  const question = content.replace(`${prefix}${aliasCommand}`, "").trim();
+
+  if (!question) {
+    await sendMessageQuery(api, message, "Vui lòng nhập câu hỏi cần giải đáp!");
+    return;
+  }
+
+  try {
+    const lowerCaseQuestion = question.toLowerCase();
+    if (defaultAnswers[lowerCaseQuestion]) {
+      const answer = defaultAnswers[lowerCaseQuestion];
+      if (uidFrom) saveConversationHistory(uidFrom, dName, question, answer);
+      await sendMessageStateQuote(api, message, answer, true, 15 * 60000, false);
+      return;
+    }
+
+    const replyText = await callGPTAPI(question, uidFrom, dName);
+    if (!replyText) throw new Error("Không nhận được phản hồi từ API");
+    await sendMessageStateQuote(api, message, replyText, true, 15 * 60000, false);
+
+  } catch (error) {
+    console.error("Lỗi khi xử lý yêu cầu GPT:", error);
+    await sendMessageFailed(api, message, "Xin lỗi, có lỗi xảy ra khi xử lý yêu cầu của bạn.");
+  }
+}
+
+// Ví dụ đơn giản gọi API viết haiku
+export async function testHaiku() {
+  try {
+    const response = await axios.get(`${API_URL}${encodeURIComponent('write a haiku about ai')}`);
+    console.log("Haiku:", response.data?.response);
+  } catch (error) {
+    console.error("Lỗi khi gọi API Zeidteam:", error);
+  }
+}

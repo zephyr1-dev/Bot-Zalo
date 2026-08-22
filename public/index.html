@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>NDQ X TOANDEV - Zalo Bot - Control Panel</title>
+    <link rel="stylesheet" href="/styles/main.css" />
+    <link rel="stylesheet" href="/styles/header.css" />
+    <link rel="stylesheet" href="/styles/body.css" />
+    <link rel="stylesheet" href="/styles/footer.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <script src="/socket.io/socket.io.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <script src="/scripts/config.js"></script>
+  </head>
+  <body>
+    <div class="menu-toggle" id="menuToggle">
+      <div class="bar"></div>
+      <div class="bar"></div>
+      <div class="bar"></div>
+    </div>
+
+    <div class="color-change" id="colorChange">
+      <i class="fas fa-palette"></i>
+    </div>
+
+    <nav class="side-menu" id="sideMenu">
+      <div class="menu-header">
+        <h3>Menu</h3>
+      </div>
+      <ul>
+        <li>
+          <a href="#" data-page="dashboard"
+            ><i class="fas fa-home"></i> <span>Trang chủ</span></a
+          >
+        </li>
+        <li>
+          <a href="#" id="botCommandsLink">
+            <i class="fas fa-terminal"></i> <span>Lệnh bot</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="parallax-container">
+      <header>
+        <div class="inner">
+          <div className="main">
+            <h2 className="title">NCH - Zalo Bot - Control Panel</h2>
+          </div>
+        </div>
+      </header>
+
+      <main>
+        <div class="grid-container">
+          <div class="grid-item lists">
+            <div class="list-header">
+              <h2 class="list-title">Danh sách nhóm</h2>
+              <div class="list-toggle">
+                <button id="groupsBtn" class="active">Groups</button>
+                <button id="friendsBtn">Friends</button>
+                <button id="refreshBtn">
+                  <i class="fas fa-sync-alt"></i> Refresh
+                </button>
+              </div>
+            </div>
+            <div class="list-content">
+              <div class="group-list"></div>
+              <div class="friend-list" style="display: none"></div>
+            </div>
+            <div class="list-footer">
+              <span class="selected-count">Đã Chọn: 0</span>
+              <div class="select-buttons">
+                <button id="selectAllBtn">Chọn tất cả</button>
+                <button id="unselectAllBtn">Bỏ chọn tất cả</button>
+              </div>
+            </div>
+          </div>
+          <div class="grid-item logs">
+            <h2>Tin Nhắn Và Sự Kiện</h2>
+            <div class="log-content"></div>
+          </div>
+          <div class="grid-item actions">
+            <h2>Thao Tác</h2>
+            <div class="action-content">
+              <div class="action-title">Nhập Nội Dung</div>
+              <textarea
+                id="messageContent"
+                rows="4"
+                placeholder="Nhập nội dung tin nhắn ở đây"
+              ></textarea>
+
+              <div class="file-upload">
+                <input type="file" id="fileInput" multiple />
+                <label for="fileInput">Chọn file đính kèm</label>
+                <div id="fileList"></div>
+              </div>
+
+              <div class="schedule-send">
+                <input
+                  type="number"
+                  id="timeValue"
+                  min="1"
+                  placeholder="Thời gian"
+                />
+                <select id="timeUnit">
+                  <option value="seconds">Giây</option>
+                  <option value="minutes">Phút</option>
+                  <option value="hours">Giờ</option>
+                  <option value="days">Ngày</option>
+                </select>
+              </div>
+
+              <div class="send-buttons">
+                <button id="sendToFriends">Send All To Friends</button>
+                <button id="sendToGroups">Send All To Groups</button>
+              </div>
+
+              <div class="send-buttons">
+                <button id="sendForSelected">Gửi theo đối tượng đã chọn</button>
+                <button id="sendBulkMessage">
+                  Gửi liên tục cho các đối tượng đã chọn
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <footer>
+        <div class="ticker">
+          <div class="inner-footer">
+            <span class="ticker-content"></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <div id="botIntroPopup" class="popup">
+      <div class="popup-content">
+        <h2 class="popupTitle">Giới thiệu về Bot</h2>
+        <p class="popupMessage">
+          Đây là nơi bạn có thể quản lý gửi tin hàng loạt hoặc xem tin nhắn toàn
+          bộ nhóm và thành viên
+        </p>
+        <button id="closePopup">Đóng</button>
+      </div>
+    </div>
+
+    <script src="/scripts/main.js"></script>
+    <script src="/scripts/colorChanger.js"></script>
+    <script>
+      document.getElementById("botCommandsLink").href =
+        CONFIG.BOT_COMMANDS_PATH;
+    </script>
+
+    <!-- Thêm đoạn này vào cuối body, ngay trước đóng tag </body> -->
+    <div id="popupNotification" class="popup" style="display: none">
+      <div class="popup-content">
+        <h2 id="popupTitle"></h2>
+        <p id="popupMessage"></p>
+        <button id="closePopupNotification">Đóng</button>
+      </div>
+    </div>
+
+    <!-- Thêm đoạn này vào cuối body, ngay sau popup thông báo -->
+    <div id="confirmDialog" class="popup" style="display: none">
+      <div class="popup-content">
+        <h2 id="confirmTitle">Xác nhận</h2>
+        <p id="confirmMessage"></p>
+        <div class="confirm-buttons">
+          <button id="confirmYes">Đồng ý</button>
+          <button id="confirmNo">Hủy</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

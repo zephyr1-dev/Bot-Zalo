@@ -1,0 +1,24 @@
+[2026-08-22T08:43:50.837Z] Startup failed: Error: Failed to fetch login info: TypeError: Cannot read properties of undefined (reading 'trim')
+    at login (file:///C:/Users/Administrator/Downloads/bot/src/api-zalo/apis/login.js:19:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Zalo.login (file:///C:/Users/Administrator/Downloads/bot/src/api-zalo/zalo.js:93:23)
+    at async start (file:///C:/Users/Administrator/Downloads/bot/src/index.js:60:9)
+[2026-08-22T08:53:52.576Z] Bot started. UID=644007814043723183
+[2026-08-22T08:56:21.410Z] Bot started
+[2026-08-22T08:56:24.441Z] Bot started. UID=644007814043723183
+[2026-08-22T08:56:51.598Z] Bot đã thoát với mã: 3221225786
+[2026-08-22T08:56:51.613Z] Failed to stop bot: kill ESRCH
+[2026-08-22T08:56:52.645Z] Bot started
+[2026-08-22T08:56:52.660Z] Bot restarted
+[2026-08-22T08:56:56.253Z] Bot started. UID=644007814043723183
+[2026-08-22T08:59:47.911Z] Bot started
+[2026-08-22T08:59:52.504Z] Bot đã thoát với mã: 1
+[2026-08-22T08:59:52.520Z] Failed to stop bot: kill ESRCH
+[2026-08-22T08:59:53.536Z] Bot started
+[2026-08-22T08:59:53.551Z] Bot restarted
+[2026-08-22T09:04:57.187Z] Startup failed: Error: Failed to fetch login info: TypeError: Cannot read properties of undefined (reading 'trim')
+    at login (file:///C:/Users/Administrator/Downloads/bot/src/api-zalo/apis/login.js:19:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Zalo.login (file:///C:/Users/Administrator/Downloads/bot/src/api-zalo/zalo.js:93:23)
+    at async start (file:///C:/Users/Administrator/Downloads/bot/src/index.js:61:9)
+[2026-08-22T09:19:40.461Z] Bot started. UID=644007814043723183

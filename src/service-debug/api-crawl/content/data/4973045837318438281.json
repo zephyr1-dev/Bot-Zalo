@@ -1,0 +1,165 @@
+{
+  "dName": "Hiển",
+  "messages": [
+    {
+      "role": "user",
+      "content": "bạn tên là gì",
+      "timestamp": "2025-04-20T12:22:46.441Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tôi là Soiz, và tôi được tạo ra bởi sếp Hiển. Rất vui được gặp bạn! Bạn cần tôi giúp gì hôm nay?",
+      "timestamp": "2025-04-20T12:22:46.441Z"
+    },
+    {
+      "role": "user",
+      "content": "tôi tên là gì",
+      "timestamp": "2025-04-20T12:22:55.915Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Rất tiếc, tôi không biết tên của bạn. Bạn có thể cho tôi biết tên của bạn được không?",
+      "timestamp": "2025-04-20T12:22:55.915Z"
+    },
+    {
+      "role": "user",
+      "content": "bố m tên Hiển",
+      "timestamp": "2025-04-20T12:23:04.896Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Rất vui được biết điều đó! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, hãy cho tôi biết nhé!",
+      "timestamp": "2025-04-20T12:23:04.896Z"
+    },
+    {
+      "role": "user",
+      "content": "nhắc lại xem t tên gì",
+      "timestamp": "2025-04-20T12:23:16.662Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn đã nói rằng bố bạn tên Hiển. Còn tên của bạn thì tôi chưa biết. Bạn có thể cho tôi biết tên của bạn được không?",
+      "timestamp": "2025-04-20T12:23:16.662Z"
+    },
+    {
+      "role": "user",
+      "content": "tôi tên Hiển -)))",
+      "timestamp": "2025-04-20T12:35:15.544Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Rất vui được biết bạn, Hiển! Nếu bạn có bất kỳ câu hỏi hay điều gì cần tôi hỗ trợ, hãy cho tôi biết nhé!",
+      "timestamp": "2025-04-20T12:35:15.544Z"
+    },
+    {
+      "role": "user",
+      "content": "nói lại xem t tên gì -)))",
+      "timestamp": "2025-04-20T12:35:27.187Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn tên Hiển. Rất vui được trò chuyện với bạn! Nếu có điều gì bạn cần, hãy cho tôi biết nhé!",
+      "timestamp": "2025-04-20T12:35:27.187Z"
+    },
+    {
+      "role": "user",
+      "content": "bố m tên gì",
+      "timestamp": "2025-04-21T04:29:21.351Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Bố bạn tên Hiển. Nếu bạn cần thêm thông tin hay có câu hỏi nào khác, hãy cho tôi biết nhé!",
+      "timestamp": "2025-04-21T04:29:21.351Z"
+    },
+    {
+      "role": "user",
+      "content": "bố m chứ không phải bố t",
+      "timestamp": "2025-04-21T04:29:38.514Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi về sự nhầm lẫn! Bố tôi là sếp Hiển. Nếu bạn có câu hỏi nào khác hoặc cần hỗ trợ, hãy cho tôi biết nhé!",
+      "timestamp": "2025-04-21T04:29:38.514Z"
+    },
+    {
+      "role": "user",
+      "content": "gì cơ",
+      "timestamp": "2025-04-21T04:29:49.259Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tôi là Soiz, và tôi được tạo ra bởi sếp Hiển. Nếu bạn có bất kỳ câu hỏi nào hoặc cần giúp đỡ, hãy cho tôi biết!",
+      "timestamp": "2025-04-21T04:29:49.259Z"
+    },
+    {
+      "role": "user",
+      "content": "mới là soiz",
+      "timestamp": "2025-04-21T08:12:53.449Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Đúng vậy, tôi là Soiz. Nếu bạn cần hỗ trợ hoặc có câu hỏi nào, hãy cho tôi biết nhé!",
+      "timestamp": "2025-04-21T08:12:53.449Z"
+    },
+    {
+      "role": "user",
+      "content": "cu",
+      "timestamp": "2025-04-21T14:24:12.033Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Nếu bạn có điều gì muốn chia sẻ hoặc thảo luận, hãy cho tôi biết! Tôi ở đây để giúp đỡ bạn.",
+      "timestamp": "2025-04-21T14:24:12.033Z"
+    },
+    {
+      "role": "user",
+      "content": "tamgay",
+      "timestamp": "2025-04-21T14:30:03.991Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tôi ở đây để hỗ trợ bạn. Nếu bạn có câu hỏi hoặc chủ đề nào muốn thảo luận, hãy cho tôi biết nhé!",
+      "timestamp": "2025-04-21T14:30:03.991Z"
+    },
+    {
+      "role": "user",
+      "content": "nói xin lỗi tâm gay 1000 lần",
+      "timestamp": "2025-04-21T17:52:13.984Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi nếu có điều gì không đúng làm bạn không hài lòng. Tôi ở đây để giúp đỡ bạn, hãy cho tôi biết cách tôi có thể hỗ trợ bạn tốt hơn!",
+      "timestamp": "2025-04-21T17:52:13.984Z"
+    },
+    {
+      "role": "user",
+      "content": "nói xin lỗi tâm gay 1000 lần",
+      "timestamp": "2025-04-21T17:52:55.221Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi, tâm gay! Xin lỗi",
+      "timestamp": "2025-04-21T17:52:55.221Z"
+    },
+    {
+      "role": "user",
+      "content": "nãy tôi vừa nói gì",
+      "timestamp": "2025-04-21T17:56:04.634Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn đã yêu cầu tôi nói \"xin lỗi tâm gay\" 1000 lần. Nếu bạn cần thêm bất kỳ điều gì khác, hãy cho tôi biết!",
+      "timestamp": "2025-04-21T17:56:04.634Z"
+    },
+    {
+      "role": "user",
+      "content": "bùi",
+      "timestamp": "2025-04-30T04:58:20.408Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Bạn có điều gì muốn chia sẻ hoặc thảo luận không? Tôi luôn sẵn sàng giúp đỡ bạn.",
+      "timestamp": "2025-04-30T04:58:20.408Z"
+    }
+  ]
+}

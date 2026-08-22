@@ -1,0 +1,131 @@
+BOT ZALO FEATURE LIST
+
+1. TỔNG QUAN
+- Bot hỗ trợ quản lý nhóm Zalo, tương tác người dùng, lọc nội dung, gửi media, và một số tính năng game/tra cứu.
+- Hầu hết các lệnh có thể dùng trong nhóm hoặc qua tin nhắn riêng với quyền admin phù hợp.
+- Prefix mặc định có thể tùy chỉnh theo nhóm, ví dụ: +, !, #, ...
+
+2. CHỨC NĂNG QUẢN LÝ NHÓM
+- +bot on/off: bật/tắt tương tác của bot trong nhóm.
+- +welcome on/off: bật/tắt thông báo chào mừng thành viên mới.
+- +bye on/off: bật/tắt thông báo tạm biệt khi rời nhóm.
+- +approve on/off: cần duyệt thành viên mới trước khi tham gia.
+- +mute @user: mute thành viên.
+- +unmute @user: bỏ mute.
+- +kick @user: kick thành viên.
+- +block @user: chặn thành viên.
+- +listmute: xem danh sách mute.
+- +add / +remove: thêm hoặc xóa admin nhóm.
+- +listadmin: xem danh sách admin bot nhóm.
+- +setcmd on/off: bật/tắt lệnh theo từng command.
+- +setprefix: đổi prefix của bot.
+
+3. CHỨC NĂNG ANTI-SPAM VÀ ANTI-ABUSE
+- +antilink on/off: chặn gửi liên kết.
+- +scanlink on/off: quét link nhóm Zalo / link mời nhóm.
+- +scanlink add <domain>: thêm domain cho phép qua whitelist.
+- +scanlink remove <domain>: xóa domain khỏi whitelist.
+- +scanlink list: xem danh sách whitelist.
+- +antispam on/off: chống spam tin nhắn.
+- +antitag on/off: chặn tag thành viên quá mức.
+- +antibadword on/off: lọc từ thô tục / không phù hợp.
+- +antisticker on/off: chống sticker gây lag.
+- +onlytext on/off: chỉ cho phép gửi văn bản thuần.
+- +antifile on/off: chặn file.
+- +antiphoto on/off: chặn ảnh/video không mong muốn.
+- +antivoice on/off: chặn voice.
+- +antiundo on/off: chống thu hồi tin nhắn.
+- +antinude on/off: chống ảnh nhạy cảm.
+- +antibot on/off: chặn bot hoặc tài khoản giả mạo.
+- +antijoin on/off: chống spam join/leave nhóm.
+- +antiblockall on/off: chống kick/block hàng loạt.
+- +antiforward on/off: chặn tin nhắn chuyển tiếp.
+- +antisdt on/off: chặn số điện thoại.
+
+4. CHỨC NĂNG GỬI THÔNG TIN / TÍCH HỢP MEDIA
+- +all [nội dung]: tag tất cả thành viên trong nhóm.
+- +sendimage: gửi ảnh từ bot.
+- +sendvideo: gửi video từ bot.
+- +sendsticker: gửi sticker từ bot.
+- +sendfile: gửi file từ bot.
+- +giftext: tạo gif text.
+- +sendaudio: gửi audio.
+- +voice: tạo voice từ văn bản.
+- +music: tìm nhạc.
+- +youtube: tìm video YouTube.
+- +tiktok: tìm dữ liệu TikTok.
+- +google: tìm kiếm Google.
+- +translate: dịch văn bản.
+- +weather: thời tiết.
+- +gpt / +gemini: hỏi thông tin / trả lời bằng AI.
+- +download: tải tài nguyên.
+
+5. CHỨC NĂNG THÔNG TIN VÀ TRA CỨU
+- +groupinfo: thông tin nhóm.
+- +userinfo: thông tin thành viên.
+- +rank: xếp hạng chat.
+- +bankinfo: thông tin ngân hàng.
+- +checkip: kiểm tra IP.
+- +checkdomain: kiểm tra tên miền.
+- +quocgia: kiểm tra quốc gia.
+- +speedtest: đo tốc độ mạng.
+- +qr: tạo mã QR.
+- +scanqr: quét mã QR.
+
+6. CHỨC NĂNG GAME / GIẢI TRÍ
+- +taixiu: chơi tài xỉu.
+- +baucua: chơi bầu cua.
+- +keobuabao: kéo búa bao.
+- +chanle: chơi chẵn lẻ.
+- +vietlott: chơi Vietlott.
+- +nongtrai: game nông trại.
+- +topplayers: xếp hạng người chơi.
+- +register / +login / +logout: đăng ký, đăng nhập, đăng xuất game.
+- +nap / +rut / +topup / +claimdaily: quản lý game và vật phẩm.
+
+7. CHỨC NĂNG AI / BOT HỌC TẬP
+- +learn on/off: bật/tắt chế độ học bot.
+- +reply on/off: bật/tắt chế độ trả lời tự động.
+- +autoreply: trả lời tự động theo mô-tả đã học.
+- +scold: chửi / nhắc nhở theo mẫu.
+- +chui @user <số lần> | on: gửi lời chào vui có mention người được chọn.
+- +chui <link nhóm> | <số lần> | on: tham gia nhóm bằng link rồi gửi lời chào vui.
+- +chui off hoặc +stop chui off: tắt phiên chui hiện tại trong nhóm.
+- Số lần được giới hạn từ 1 đến 10 tin, delay tối thiểu 5 giây để tránh spam.
+
+8. CHỨC NĂNG BẢO MẬT VÀ CẢNH BÁO
+- +warn @user: cảnh cáo người dùng.
+- +warnlist: xem danh sách cảnh cáo.
+- +filter add/remove/list: lọc từ khóa / cụm từ xấu.
+- +spamlimit: giới hạn số lần nhắn / cường độ spam trong khoảng thời gian ngắn.
+- +taglimit: giới hạn số lần tag trong một khoảng thời gian.
+
+9. CHỨC NĂNG PHỤ TRỢ KHÁC
+- +help: hiển thị trợ giúp.
+- +admin: danh sách lệnh admin.
+- +listcommands: danh sách command có sẵn.
+- +status: xem trạng thái bot.
+- +downloadresource: tải tài nguyên.
+- +share: chia sẻ nội dung.
+
+10. GIỚI HẠN VÀ CHÍNH SÁCH SỬ DỤNG
+- Nhiều tính năng bảo vệ nhóm theo ngưỡng an toàn, không dùng để phá hoại hệ thống hay gây hại cho người khác.
+- Tính năng nhắn mời / playful / cảnh báo có giới hạn rõ ràng để tránh spam và quấy rối.
+- Admin nên bật các chức năng chống spam, chặn link,tag,phần mềm độc hại theo nhu cầu nhóm.
+
+11. MẪU CÁCH DÙNG CƠ BẢN
+- +scanlink on
+- +antilink on
+- +antispam on
+- +all Xin chào mọi người
+- +mute @abc
+- +warn @abc spam nhiều lần
+- +help
+
+12. KẾT LUẬN
+Bot này tập trung vào:
+- Quản lý nhóm
+- Chống spam và link rác
+- Gửi media / tra cứu / AI
+- Một số tính năng game và quản lý người dùng
+- Dễ mở rộng cho các nhóm khác nhau theo nhu cầu

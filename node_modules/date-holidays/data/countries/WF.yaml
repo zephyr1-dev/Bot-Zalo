@@ -1,0 +1,32 @@
+# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Wallis_and_Futuna
+holidays:
+  WF:
+    names:
+      fr: Wallis-et-Futuna
+      en: Wallis and Futuna
+    langs:
+      - fr
+    zones:
+      - Pacific/Wallis
+    dayoff: sunday
+    _days: FR
+    days:
+      04-28:
+        name:
+          fr: Fête de Saint Pierre-Chanel
+          en: Saint Pierre Chanel Day
+      06-29:
+        name:
+          fr: Saint Pierre et Paul
+          en: Saints Peter and Paul Day
+      07-29:
+        name:
+          fr: Fête du Territoire
+          en: Territory Day
+    # states:
+    #   AL:
+    #     name: Alo
+    #   SG:
+    #     name: Sigave
+    #   UV:
+    #     name: Uvea

@@ -1,0 +1,40 @@
+2025-09-30 04:10:51 - Mã Lỗi: undefined - > Chú Thích Lỗi Tin Nhắn: handleChatWithGame is not defined
+Nội Dung Lỗi: ReferenceError: handleChatWithGame is not defined
+    at handleOnChatUser (file:///D:/Desktop/HHH_MYBOT/HHH_MYBOT/src/service-debug/service.js:72:3)
+    at messagesUser (file:///D:/Desktop/HHH_MYBOT/HHH_MYBOT/src/automations/event-send-msg.js:213:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Listener.<anonymous> (file:///D:/Desktop/HHH_MYBOT/HHH_MYBOT/src/index.js:166:5)
+2025-09-30 04:11:01 - Mã Lỗi: undefined - > Chú Thích Lỗi Tin Nhắn: handleChatWithGame is not defined
+Nội Dung Lỗi: ReferenceError: handleChatWithGame is not defined
+    at handleOnChatUser (file:///D:/Desktop/HHH_MYBOT/HHH_MYBOT/src/service-debug/service.js:72:3)
+    at messagesUser (file:///D:/Desktop/HHH_MYBOT/HHH_MYBOT/src/automations/event-send-msg.js:213:17)
+    at async Listener.<anonymous> (file:///D:/Desktop/HHH_MYBOT/HHH_MYBOT/src/index.js:166:5)
+2026-08-21 08:56:15 - Bot started
+2026-08-21 08:56:21 - Bot đã thoát với mã: 3221225786
+2026-08-21 08:56:21 - Failed to stop bot: kill ESRCH
+2026-08-21 08:56:22 - Bot started
+2026-08-21 08:56:22 - Bot restarted
+2026-08-21 09:20:43 - Bot started
+2026-08-21 09:21:59 - Bot đã thoát với mã: 3221225786
+2026-08-21 09:21:59 - Failed to stop bot: kill ESRCH
+2026-08-21 09:22:00 - Bot started
+2026-08-21 09:22:00 - Bot restarted
+2026-08-21 09:22:18 - Bot started
+2026-08-21 10:13:12 - Bot started
+2026-08-21 10:13:20 - Bot đã thoát với mã: 3221225786
+2026-08-21 10:13:20 - Failed to stop bot: kill ESRCH
+2026-08-21 10:13:21 - Bot started
+2026-08-21 10:13:21 - Bot restarted
+2026-08-21 10:14:30 - Bot đã thoát với mã: 3221225786
+2026-08-21 10:14:30 - Failed to stop bot: kill ESRCH
+2026-08-21 10:14:31 - Bot started
+2026-08-21 10:14:31 - Bot restarted
+2026-08-21 10:16:16 - Bot started
+2026-08-21 10:16:25 - Bot đã thoát với mã: 1
+2026-08-21 10:16:25 - Failed to stop bot: kill ESRCH
+2026-08-21 10:16:27 - Bot started
+2026-08-21 10:16:27 - Bot restarted
+2026-08-21 10:16:29 - Bot đã thoát với mã: 3221225786
+2026-08-21 10:16:29 - Failed to stop bot: kill ESRCH
+2026-08-21 10:16:30 - Bot started
+2026-08-21 10:16:30 - Bot restarted

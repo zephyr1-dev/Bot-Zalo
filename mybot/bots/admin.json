@@ -1,0 +1,20 @@
+{
+  "name": "admin",
+  "configFilePath": "assets/config.json",
+  "groupSettingsPath": "assets/data/group_settings.json",
+  "adminFilePath": "assets/data/list_admin.json",
+  "commandFilePath": "assets/json-data/command.json",
+  "MANAGER_FILE_PATH": "assets/json-data/manager-bot.json",
+  "DATA_GAME_FILE_PATH": "assets/json-data/data-game.json",
+  "DATA_NT_PATH": "assets/json-data/nong-trai.json",
+  "PROPHYLACTIC_CONFIG_PATH": "assets/json-data/prophylactic.json",
+  "logDir": "logs",
+  "resourceDir": "assets/resources",
+  "tempDir": "assets/temp",
+  "dataGifPath": "assets/resources/gif",
+  "WEB_CONFIG_PATH": "assets/web-config/web-config.json",
+  "webPort": "2000",
+  "databaseFile": "assets/json-data/database-config.json",
+  "dataTrainingPath": "assets/json-data/data-training.json",
+  "rankInfoPath": "assets/json-data/rank-info.json"
+}

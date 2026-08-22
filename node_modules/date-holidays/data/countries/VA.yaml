@@ -1,0 +1,131 @@
+# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Vatican_City
+holidays:
+  VA:
+    names:
+      it: Stato della Città del Vaticano
+      la: Status Civitatis Vaticanae
+      en: Vatican City
+    langs:
+      - it
+    zones:
+      - Europe/Rome
+    dayoff: sunday
+    days:
+      01-01:
+        name:
+          en: Solemnity of Mary, Mother of God
+          it: Maria Santissima Madre di Dio
+      01-06:
+        name:
+          en: Epiphany
+          it: Epifania del Signore
+      02-11:
+        name:
+          en: Anniversary of the foundation of Vatican City
+          it: Anniversario della istituzione dello Stato della Città del Vaticano
+      03-19:
+        _name: 03-19
+      easter -3:
+        _name: easter -3
+      easter -2:
+        _name: easter -2
+      easter -1:
+        _name: easter -1
+      easter:
+        _name: easter
+      easter 1:
+        _name: easter 1
+      easter 2:
+        name:
+          en: In Albis Tuesday
+          it: Martedì in Albis
+      easter 39:
+        _name: easter 39
+      easter 49:
+        _name: easter 49
+      easter 60:
+        _name: easter 60
+      05-01:
+        _name: 05-01
+        name:
+          en: Saint Joseph the Worker
+          it: San Giuseppe lavoratore
+      06-29:
+        _name: 06-29
+      08-14:
+        name:
+          en: Summer holiday
+          it: Pausa estiva
+      08-15:
+        _name: 08-15
+        name:
+          it: Assunzione di Maria in Cielo
+      08-16:
+        name:
+          en: Summer holiday
+          it: Pausa estiva
+      11-01:
+        _name: 11-01
+      11-02:
+        # _name: 11-02 # TODO allow language specific overrides in parser
+        name:
+          it: Commemorazione dei fedeli defunti
+          en: All Souls' Day
+      12-08:
+        _name: 12-08
+      12-25:
+        _name: 12-25
+      12-26:
+        _name: 12-26
+      12-27:
+        name:
+          en: St. John
+          it: San Giovanni
+      12-31:
+        _name: 12-31
+      # Pope John Paul II
+      10-16:
+        name:
+          en: Anniversary of the election of Pope John Paul II
+          it: Anniversario dell'Elezione del Santo Padre
+        active:
+          - from: 1978
+            to: 2005
+      11-04:
+        name:
+          en: Saint Charles Borromeo - Name day of the Holy Father
+          it: San Carlo Borromeo - Onomastico del Santo Padre
+        note: Name day of Pope John Paul II (Karol Józef Wojtyła)
+        active:
+          - from: 1978
+            to: 2005
+      # Pope Benedict XVI
+      04-19 since 2005 and prior to 2013:
+        name:
+          en: Anniversary of the election of Pope Benedict XVI
+          it: Anniversario dell'Elezione del Santo Padre
+      03-19 since 2005 and prior to 2013:
+        name:
+          en: Saint Joseph - Name day of the Holy Father
+          it: San Giuseppe - Onomastico del Santo Padre
+        note: Name day of Pope Benedict XVI (Josef Ratzinger)
+      # Pope Francis
+      03-13 since 2013 and prior to 2026:
+        name:
+          en: Anniversary of the election of Pope Francis
+          it: Anniversario dell'Elezione del Santo Padre
+      04-23 since 2013 and prior to 2026:
+        name:
+          en: Saint George - Name day of the Holy Father
+          it: San Giorgio - Onomastico del Santo Padre
+        note: Name day of Pope Francis (Jorge Mario Bergoglio)
+      # Pope Leo XIV
+      05-08 since 2026:
+        name:
+          en: Anniversary of the election of Pope Leo XIV
+          it: Anniversario dell'Elezione del Santo Padre
+      09-17 since 2025:
+        name:
+          en: Saint Robert Bellarmine - Name day of the Holy Father
+          it: San Roberto Bellarmino - Onomastico del Santo Padre
+        note: Name day of Pope Leo XIV (Robert Francis Prevost)

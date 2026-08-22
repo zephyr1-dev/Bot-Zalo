@@ -1,0 +1,226 @@
+{
+  "groupRequiredReset": "-1",
+  "onBotPrivate": false,
+  "blockBot": [
+    {
+      "idUserZalo": "1792413648936494407",
+      "senderName": "Sách 𓆡"
+    },
+    {
+      "idUserZalo": "3273215215061820404",
+      "senderName": "𓂄𓆩🛡nguyen Gia Hung🛸𓆪𓂁"
+    },
+    {
+      "idUserZalo": "3576070453052814136",
+      "senderName": "Tran Van Trung"
+    }
+  ],
+  "tagetList": [
+    {
+      "idUserZalo": "5077422658858816238",
+      "senderName": "Vân Anh Bui"
+    }
+  ],
+  "groupBlockedMembers": [
+    {
+      "idUserZalo": "2326327296355846864",
+      "senderName": "Bé Bảo"
+    },
+    {
+      "idUserZalo": "8922085795948300361",
+      "senderName": "Liggdzut"
+    },
+    {
+      "idUserZalo": "1979327981000249071",
+      "senderName": "Anh Bá Nhất Mxh"
+    },
+    {
+      "idUserZalo": "4013358491321607978",
+      "senderName": "Nminh"
+    },
+    {
+      "idUserZalo": "5599146767776799532",
+      "senderName": "Sơn Channel"
+    },
+    {
+      "idUserZalo": "4537474531572769888",
+      "senderName": "Trợ Lí David Nguyễn"
+    },
+    {
+      "idUserZalo": "5743963248133790510",
+      "senderName": "𓂄 𓆩 Chiến Bé 𓆪 𓂁"
+    },
+    {
+      "idUserZalo": "7057148283045852008",
+      "senderName": "Thắng Zợi Nguyễn"
+    },
+    {
+      "idUserZalo": "5114999744865212516",
+      "senderName": "Trung Trí"
+    },
+    {
+      "idUserZalo": "791487731198382947",
+      "senderName": "Hoang Anh"
+    },
+    {
+      "idUserZalo": "691986720900296962",
+      "senderName": "Bảo Nam"
+    },
+    {
+      "idUserZalo": "1696573095486209555",
+      "senderName": "Khánh Trọng"
+    },
+    {
+      "idUserZalo": "8157170104349550508",
+      "senderName": "‏‎‏‎‏‎‏‎‏‎‏‎‏‎‏‎‏‎‏‎‏‎‏‎‏‎‏‎buash Ang 🀌"
+    },
+    {
+      "idUserZalo": "6773758668318178713",
+      "senderName": "Jjjjjjjj"
+    },
+    {
+      "idUserZalo": "7991788456245175408",
+      "senderName": "Tykthah"
+    },
+    {
+      "idUserZalo": "3917517563918731717",
+      "senderName": "Ng Hồng Toán"
+    },
+    {
+      "idUserZalo": "9115594882150489369",
+      "senderName": "Lov"
+    },
+    {
+      "idUserZalo": "8332811118697182524",
+      "senderName": "Khoai Lang Phô Mai"
+    },
+    {
+      "idUserZalo": "5130905843946017196",
+      "senderName": "Phạm Hữu Ái"
+    },
+    {
+      "idUserZalo": "7030125169126855432",
+      "senderName": "Hoàng Phát"
+    },
+    {
+      "idUserZalo": "6012507800586125800",
+      "senderName": "Lý Anh Đức"
+    },
+    {
+      "idUserZalo": "2534338976556362419",
+      "senderName": "Đệ An Lov Quỳnh"
+    },
+    {
+      "idUserZalo": "7907627175917646373",
+      "senderName": "Tp"
+    },
+    {
+      "idUserZalo": "7883842841464907505",
+      "senderName": "Nguyễn Hữu Trung"
+    },
+    {
+      "idUserZalo": "2015360087259663983",
+      "senderName": "Nguyễn Đạt"
+    },
+    {
+      "idUserZalo": "5211699396813765067",
+      "senderName": "Quang Hoàng"
+    },
+    {
+      "idUserZalo": "867338955859797905",
+      "senderName": "Hoàng Gd"
+    },
+    {
+      "idUserZalo": "7009295841003341278",
+      "senderName": "Tuann"
+    },
+    {
+      "idUserZalo": "8666645667652803806",
+      "senderName": "Khắc Hiếu"
+    },
+    {
+      "idUserZalo": "2203379556940164875",
+      "senderName": "Khoaboy Bán File"
+    },
+    {
+      "idUserZalo": "6516355692863198966",
+      "senderName": "Kamado Nezuko"
+    },
+    {
+      "idUserZalo": "3286722865491514116",
+      "senderName": "Nam Media"
+    },
+    {
+      "idUserZalo": "2072210383788310361",
+      "senderName": "Cá Mập Ham Ngủ"
+    },
+    {
+      "idUserZalo": "4577024023142570268",
+      "senderName": "Nhung Nguyen"
+    },
+    {
+      "idUserZalo": "8960079533744293568",
+      "senderName": "Bạn"
+    },
+    {
+      "idUserZalo": "5715256828921691592",
+      "senderName": "Dạ Em Xin Lỗi"
+    },
+    {
+      "idUserZalo": "7808969466248008135",
+      "senderName": "Chấn Hào Media"
+    },
+    {
+      "idUserZalo": "2310844555021226889",
+      "senderName": "Ngminhkhaq"
+    },
+    {
+      "idUserZalo": "7723831499373279656",
+      "senderName": "Ly"
+    },
+    {
+      "idUserZalo": "9191314492579631894",
+      "senderName": "Cảm Ơn Bạn"
+    },
+    {
+      "idUserZalo": "6420090164436263808",
+      "senderName": "Tôi Yêu Việt Nam"
+    },
+    {
+      "idUserZalo": "5019720729703665201",
+      "senderName": "Huy Mai"
+    },
+    {
+      "idUserZalo": "8663268166273720482",
+      "senderName": "Ad Thương"
+    },
+    {
+      "idUserZalo": "2736430617757023841",
+      "senderName": "Nguyễn Quốc Cường"
+    },
+    {
+      "idUserZalo": "4730087402568206140",
+      "senderName": "Yumi"
+    },
+    {
+      "idUserZalo": "8744193780856685249",
+      "senderName": "Valtox"
+    },
+    {
+      "idUserZalo": "8846511077336980829",
+      "senderName": "Quốc Hùng"
+    },
+    {
+      "idUserZalo": "1073240035386378364",
+      "senderName": "Trần Mạnh Quân"
+    },
+    {
+      "idUserZalo": "7830925031061185333",
+      "senderName": "Kameow"
+    },
+    {
+      "idUserZalo": "5233935199348967482",
+      "senderName": "Đức Thành"
+    }
+  ]
+}

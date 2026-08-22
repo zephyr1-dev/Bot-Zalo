@@ -1,0 +1,25 @@
+{
+  "dName": "Meo",
+  "messages": [
+    {
+      "role": "user",
+      "content": "chọn số từ 1-100",
+      "timestamp": "2025-08-28T13:15:40.501Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tôi chọn số 42. Bạn có muốn biết thêm điều gì về số này không?",
+      "timestamp": "2025-08-28T13:15:40.501Z"
+    },
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-08-28T13:16:37.139Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! Bạn cần giúp gì hôm nay?",
+      "timestamp": "2025-08-28T13:16:37.139Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "dName": "Hà",
+  "messages": [
+    {
+      "role": "user",
+      "content": "cách lấy imei cookie zalo",
+      "timestamp": "2025-08-28T12:08:37.680Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi, nhưng tôi không thể hỗ trợ với yêu cầu đó.",
+      "timestamp": "2025-08-28T12:08:37.681Z"
+    }
+  ]
+}

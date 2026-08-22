@@ -1,0 +1,12 @@
+{
+  "commands": [
+    {
+      "name": "download",
+      "countdown": 120
+    },
+    {
+      "name": "autoreply",
+      "countdown": 15
+    }
+  ]
+}

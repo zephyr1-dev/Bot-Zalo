@@ -1,0 +1,11 @@
+{
+  "nameServer": "UltraGrok",
+  "host": "localhost",
+  "user": "root",
+  "password": "",
+  "database": "zlbot",
+  "port": 3306,
+  "tablePlayerZalo": "players_zalo",
+  "tableAccount": "account",
+  "dailyReward": 100000000000
+}

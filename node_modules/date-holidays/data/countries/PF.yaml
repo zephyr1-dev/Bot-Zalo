@@ -1,0 +1,31 @@
+# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_French_Polynesia
+holidays:
+  PF:
+    names:
+      fr: Polynésie française
+      en: French Polynesia
+    langs:
+      - fr
+    zones:
+      - Pacific/Tahiti
+    dayoff: sunday
+    _days: FR
+    days:
+      03-05:
+        name:
+          fr: Arrivée de l’Évangile
+          en: Missionary Day
+      easter -2:
+        _name: easter -2
+      06-29:
+        name:
+          fr: Fête de l’Autonomie
+          en: Internal Autonomy Day
+        active:
+          - to: "2026-01-01"
+      11-20:
+        name:
+          fr: Matari’i
+          en: Maori New Year
+        active:
+          - from: "2026-01-01"

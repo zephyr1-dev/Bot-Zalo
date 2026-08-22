@@ -1,0 +1,25 @@
+{
+  "dName": "Thái An",
+  "messages": [
+    {
+      "role": "user",
+      "content": "mày bt làm geam kh",
+      "timestamp": "2025-09-10T08:10:12.736Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Mình có thể giúp bạn với nhiều thông tin khác nhau. Bạn đang muốn tìm hiểu về điều gì?",
+      "timestamp": "2025-09-10T08:10:12.736Z"
+    },
+    {
+      "role": "user",
+      "content": "hỏi lồn má may😔",
+      "timestamp": "2025-09-10T13:16:31.351Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi nếu mình làm bạn không hài lòng. Mình ở đây để giúp đỡ bạn. Bạn có câu hỏi hay chủ đề nào muốn bàn luận không?",
+      "timestamp": "2025-09-10T13:16:31.351Z"
+    }
+  ]
+}

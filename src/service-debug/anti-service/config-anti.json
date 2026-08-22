@@ -1,0 +1,6 @@
+{
+  "badWords": [],
+  "linkRegex": "(?:https?:\\/\\/|www\\.)\\S+|(?<!\\w)[a-zA-Z0-9-]+[.,](?:com|net|org|vn|info|biz|io|xyz|me|tv|online|store|club|site|app|blog|dev|tech|cloud|game|shop|click|space|asia|fun|tokyo|xyz|website|zpg|link|co|gov|edu)(?:\\/\\S*)?(?!\\w)",
+  "violations": {},
+  "violationsNude": {}
+}

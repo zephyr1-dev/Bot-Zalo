@@ -1,0 +1,35 @@
+{
+  "dName": "Tuấn Tú",
+  "messages": [
+    {
+      "role": "user",
+      "content": "18+18=?",
+      "timestamp": "2025-08-28T05:50:39.716Z"
+    },
+    {
+      "role": "assistant",
+      "content": "18 x 18 = 324.",
+      "timestamp": "2025-08-28T05:50:39.716Z"
+    },
+    {
+      "role": "user",
+      "content": "18 + 18",
+      "timestamp": "2025-08-28T05:51:07.956Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Khi bạn viết \"18 18\" mà không có dấu hiệu toán học rõ ràng, có thể hiểu theo nhiều cách khác nhau. Nếu bạn có ý định khác hoặc cần thêm thông tin, hãy cho tôi biết!",
+      "timestamp": "2025-08-28T05:51:07.956Z"
+    },
+    {
+      "role": "user",
+      "content": "18+18",
+      "timestamp": "2025-08-28T05:51:17.646Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Có vẻ như bạn đang muốn nói đến hai số 18, nhưng không rõ ý định của bạn là gì. Bạn có thể làm rõ hơn về câu hỏi hoặc yêu cầu của mình không? Tôi sẵn sàng giúp đỡ!",
+      "timestamp": "2025-08-28T05:51:17.646Z"
+    }
+  ]
+}

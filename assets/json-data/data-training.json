@@ -1,0 +1,28 @@
+{
+  "3834066749392528045": {
+    "nameGroup": "Bot Zép Lào🩴",
+    "listTrain": {
+      "👉 Dùng @3q danhboss để tiến hành đánh Boss": [
+        {
+          "response": "@3q danhboss",
+          "isTemporary": false
+        }
+      ]
+    }
+  },
+  "7704452654665606003": {
+    "nameGroup": "Lê Quốc Đạt, Hà Huy Hoàng, Nqduan",
+    "listTrain": {
+      "Web": [
+        {
+          "response": "Trang chủ nạp thẻ: ngocrongjapan.com *admin không bảo kê buôn bán giao dịch cho bất kỳ ai, kể cả key bạc, nên là ae mua bán gì đều tự nguyện admin sẽ ko chịu trách nhiệm nha.",
+          "isTemporary": false
+        }
+      ]
+    }
+  },
+  "2330608842281506255": {
+    "nameGroup": "DEBUG BOT",
+    "listTrain": {}
+  }
+}

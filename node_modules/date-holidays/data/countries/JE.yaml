@@ -1,0 +1,18 @@
+holidays:
+  JE:
+    names:
+      en: Jersey
+    zones:
+      - Europe/Jersey
+    langs:
+      - en
+    _days:
+      - GB
+    days:
+      05-09:
+        name:
+          en: Liberation Day
+      # @source https://www.gov.je/leisure/events/whatson/pages/bankholidaydates.aspx
+      1st monday before 09-01:
+        name:
+          en: Summer Bank Holiday
