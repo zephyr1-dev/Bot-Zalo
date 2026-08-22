@@ -75,7 +75,18 @@ export function writeCommandConfig(data) {
   return writeJson(path.join(process.cwd(), "assets", "json-data", "command-config.json"), data ?? {});
 }
 
+// New: readWebConfig and writeWebConfig used by web-service modules.
+export function readWebConfig() {
+  // return a sensible default shape used by web UI and services
+  return readJson(path.join(process.cwd(), "assets", "json-data", "web-config.json"), { selectedFriends: {}, selectedGroups: {} });
+}
+
+export function writeWebConfig(data) {
+  return writeJson(path.join(process.cwd(), "assets", "json-data", "web-config.json"), data ?? { selectedFriends: {}, selectedGroups: {} });
+}
+
 export default {
   tempDir, ensureLogFiles, logManagerBot, logMessageToFile, pushMessageToWebLog,
-  readGroupSettings, writeGroupSettings, readManagerFile, writeManagerFile, writeCommandConfig
+  readGroupSettings, writeGroupSettings, readManagerFile, writeManagerFile, writeCommandConfig,
+  readWebConfig, writeWebConfig
 };
