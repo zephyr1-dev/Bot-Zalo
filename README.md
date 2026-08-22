@@ -569,7 +569,7 @@ Bot-Zalo-Anpha1/
 
 ## 📞 Liên Hệ
 
-- 👤 **Tác Giả**: Dũng (@zephyr1-dev)
+- 👤 **Tác Giả**: Changg Nek (@zephyr1-dev)
 - 🐙 **GitHub**: [github.com/zephyr1-dev](https://github.com/zephyr1-dev)
 - 📧 **Email**: [Liên hệ qua GitHub]
 - 💬 **Support**: Tạo Issue trên repository
@@ -581,7 +581,7 @@ Bot-Zalo-Anpha1/
 Dự án này được cấp phép theo **MIT License**
 
 ```
-Copyright (c) 2024-2026 Dũng (zephyr1-dev)
+Copyright (c) 2024-2026 Changg Nek (zephyr1-dev)
 All rights reserved.
 ```
 
@@ -615,6 +615,6 @@ All rights reserved.
 
 **⭐ Nếu bạn thích bot này, hãy cho một ngôi sao! ⭐**
 
-**Made with ❤️ by Dũng (zephyr1-dev)**
+**Made with ❤️ by Changg Nek (zephyr1-dev)**
 
 </div>
