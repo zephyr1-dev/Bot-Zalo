@@ -642,6 +642,5 @@ All rights reserved.
 
 ---
 
-\<div align="center">
 **⭐ Nếu bạn thích bot này, hãy cho một ngôi sao! ⭐**
 **Made with  by Changg Nek (zephyr1-dev)**
