@@ -21,7 +21,7 @@
 
 ## Giới Thiệu
 
-**Bot Zalo Anpha1** là một bot Zalo mạnh mẽ được xây dựng bằng **JavaScript (Node.js 20)** sử dụng thư viện **zlbotdqt**. Bot được thiết kế để hỗ trợ:
+**Bot Zalo** là một bot Zalo mạnh mẽ được xây dựng bằng **JavaScript (Node.js 20)** sử dụng thư viện **zlbotdqt**. Bot được thiết kế để hỗ trợ:
 
 -  **Quản lý nhóm tự động** - Quản lý thành viên, phân quyền, thiết lập chính sách
 -  **Bảo vệ nhóm** - Chống spam, chống link rác, lọc từ cấm, phát hiện nội dung không phù hợp
