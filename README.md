@@ -547,7 +547,7 @@ git push origin feature/your-feature-name
 ## Cấu Trúc Thư Mục
 
 ```
-Bot-Zalo-Anpha1/
+Bot-Zalo/
 ├── assets/                    # Tài sản & cấu hình
 │   ├── config.json           # Cấu hình bot
 │   ├── data/
@@ -602,7 +602,7 @@ Bot-Zalo-Anpha1/
 
 -  **Tác Giả**: Changg Nek (@zephyr1-dev)
 -  **GitHub**: [github.com/zephyr1-dev](https://github.com/zephyr1-dev)
--  **Email**: [Liên hệ qua GitHub]
+-  **Email**: [hoasivangogh@gmail.com]
 -  **Support**: Tạo Issue trên repository
 
 ---
