@@ -1,4 +1,4 @@
-# Bot Zalo Anpha1 - Quản Lý Nhóm Thông Minh
+# Bot Zalo - Quản Lý Nhóm Thông Minh
 
 > Bot Zalo toàn năng với hơn 50+ lệnh quản lý nhóm, bảo mật, giải trí và tích hợp AI
 
